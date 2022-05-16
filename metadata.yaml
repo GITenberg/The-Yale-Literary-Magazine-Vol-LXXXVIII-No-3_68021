@@ -1,11 +1,16 @@
 _repo: The-Yale-Literary-Magazine-Vol-LXXXVIII-No-3_68021
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68021-h/images/cover-back.jpg
 creator:
   author:
     agent_name: (Students of Yale)
     gutenberg_agent_id: '54573'
     url: http://www.gutenberg.org/2009/agents/54573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68021#The-Yale-Literary-Magazine-Vol-LXXXVIII-No-3
 gutenberg_issued: '2022-05-08'
 identifiers:
   gutenberg: '68021'
